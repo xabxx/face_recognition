@@ -1,7 +1,6 @@
--> Author: abxu/n
+-> Author: abxu
 
-/*This forked project builds new features on the original Face Recognition project.*/
-/n
+*This forked project builds new features on the original Face Recognition project.*
 New features include:
     - Define new unknown profiles if given the correct vocal response when prompted
     - Build known user profiles each time a new feature is detected from pictures
