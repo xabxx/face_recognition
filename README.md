@@ -1,6 +1,16 @@
+-> Author: abxu
+/*This forked project builds new features on the original Face Recognition project.*/
+New features include:
+    - Define new unknown profiles if given the correct vocal response when prompted
+    - Build known user profiles each time a new feature is detected from pictures
+    - Recogntion accuracy is reported every month and reflected on thingsSpeak
+    - and more to come!
+---------------------------I am a dividing line --------------------------------------
+
+
 # Face Recognition
 
-Recognize and manipulate faces from Python or from the command line with
+recognize and manipulate faces from Python or from the command line with
 the world's simplest face recognition library.
 
 Built using [dlib](http://dlib.net/)'s state-of-the-art face recognition
