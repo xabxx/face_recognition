@@ -3,10 +3,10 @@
 ->This forked project builds new features on the original Face Recognition project.
 
 New features include:
-    - Define new unknown profiles if given the correct vocal response when prompted
-    - Build known user profiles each time a new feature is detected from pictures
-    - Recogntion accuracy is reported every month and reflected on thingsSpeak
-    - and more to come!
+- Define new unknown profiles if given the correct vocal response when prompted
+- Build known user profiles each time a new feature is detected from pictures
+- Recogntion accuracy is reported every month and reflected on thingsSpeak
+- and more to come!
 
 ---------------------------I am a dividing line --------------------------------------
 
